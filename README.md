@@ -56,7 +56,3 @@ Você pode contribuir com este projeto enviando sugestões de novas funcionalida
 ## Licença
 
 Veja o arquivo [license](license) para mais detalhes.
-
-## Contato
-
-Para dúvidas ou sugestões, entre em contato através do e-mail: wizdoux@proton.me
